@@ -1,5 +1,5 @@
 {
-    "name": "sendpulse/sendpulse-rest-api-php",
+    "name": "betsuno/sendpulse-rest-api-php",
     "description": "The Sendpulse API functions.",
     "require": {
         "php": ">=5.4.0"
