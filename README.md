@@ -4,3 +4,4 @@ A simple SendPulse REST client library and example for PHP.
 ```shell
 composer require betsuno/sendpulse-rest-api-php
 ```
+
